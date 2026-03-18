@@ -1,2 +1,7 @@
 # Sales_Dashboard_PowerBi
-this is  my first Dashboard project 
+
+
+  Tools Used To :- 
+    Power BI 
+    excel 
+  .csv files 
